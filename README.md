@@ -13,7 +13,11 @@ A simple Phone Holder ... or is it? Eye holder is of course an phone holder , BU
 
 it's simple , Eye holder holds your phone and for the just of it makes a sound when u place your phone on it . It could be usufull if you forget to put your phone on  the Holder as when you do you hear a sound that you can mode to be satisfying.
 
+#Code
 
+the code is [here](https://github.com/Nikolaossamaras/EYE-Holder/blob/main/Code%20for%20EYE-Holder.txt).
+## WARNING 
+it is saved in a txt file ,so please copy paste it to Arduino Ide or where you uplaod ur code from .  
 
 # Credits
 -[Arduino IDE](https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE) - wrote the code on it 
